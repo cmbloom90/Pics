@@ -1,0 +1,12 @@
+body {
+  background-image: linear-gradient(
+    to right,
+    rgba(30, 164, 218, 0.8),
+    rgba(30, 164, 218, 0.39),
+    rgba(30, 164, 218, 0.8)
+  );
+}
+
+label {
+  font-size: 16px;
+}
